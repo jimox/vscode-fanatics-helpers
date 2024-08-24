@@ -22,5 +22,5 @@ pnpm run package
 ## Installing
 
 ``` bash
-code --install-extension golang-comments-0.0.1.vsix
+code --install-extension vscode-fanatics-helpers-0.0.1.vsix
 ```
